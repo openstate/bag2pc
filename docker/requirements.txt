@@ -1,0 +1,8 @@
+requests==2.21.0
+urllib3==1.24.1
+shapely
+shapely_geojson
+scipy
+matplotlib
+geovoronoi
+geopandas
